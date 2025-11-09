@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=AI-Driven+Engineering+Graduate;Production-Ready+AI+Systems+Builder;Full-Stack+%7C+ML+%7C+IoT+%7C+Cloud+Expert" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=180&lines=AI-Driven+Engineering+Graduate;Production-Ready+AI+Systems+Builder;Full-Stack+%7C+ML+%7C+IoT+%7C+Cloud+Expert" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -631,7 +631,7 @@ gantt
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Target.png" alt="Target" width="25" /> 2026 Objectives
+### 2026 Objectives
 
 <table>
 <tr>
@@ -728,12 +728,7 @@ Advanced Cloud Architecture
 <b>Accessibility</b><br/>
 <sub>Inclusive Design</sub>
 </td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Excellence" width="50" /><br/>
-<b>Excellence</b><br/>
-<sub>Quality First</sub>
-</td>
-</tr>
+
 </table>
 
 <br/>
